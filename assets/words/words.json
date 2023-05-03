@@ -428,5 +428,119 @@
         "lat": "Spina scapulae",
         "tur": "pilçäniň gerşi",
         "url": "assets/images/13.png"
-    }
+    },
+    {   "lat": "Kelleçanak",
+        "tur": "cranium",
+        "url": "assets/images/14.png"
+    },
+    {
+        "lat": "Kelleçanagyň beýni bölüminiň süňkleri",
+        "tur": "ossa cranii, cranium cerebrale",
+        "url": "assets/images/15.png"
+    },
+    {
+        "lat": "duluk süňki",
+        "tur": "os zygomaticum",
+        "url": "assets/images/16.png"
+    },
+    {
+        "lat": "Maňlaý sinusy",
+        "tur": "sinus frontalis",
+        "url": "assets/images/17.png"
+    },
+    {
+        "lat": "Ýeňse süňki",
+        "tur": "os occipitale",
+        "url": "assets/images/18.png"
+    },
+    {
+        "lat": "burun balykgulagy",
+        "tur": "concha nasalis superior",
+        "url": "assets/images/19.png"
+    },
+    {
+        "lat": "Ökjeüsti süňkasty bogun",
+        "tur": "articulatio subtalaris",
+        "url": "assets/images/20.png"
+    },
+    {
+        "lat": "burun balykgulagy",
+        "tur": "concha nasalis superior",
+        "url": "assets/images/19.png"
+    },
+    {
+        "lat": "Ökje-kub görnüşli bogun",
+        "tur": "articulatio calcaneocuboidea",
+        "url": "assets/images/21.png"
+    },
+    {
+        "lat": "Muskul süýümleri",
+        "tur": "myofibra",
+        "url": "assets/images/22.png"
+    },
+    {
+        "lat": "Maňlaý bölümi",
+        "tur": "regio frontalis",
+        "url": "assets/images/23.png"
+    },
+    {
+        "lat": "siňirli gatlak (tuwalga)",
+        "tur": "galea aponeurotic",
+        "url": "assets/images/24.png"
+    },
+    {
+        "lat": "Gözüň aýlawly muskuly",
+        "tur": "m. orbicularisoculi",
+        "url": "assets/images/25.png"
+    },
+    {
+        "lat": "Arkanyň inli muskuly",
+        "tur": "(m. latissimus dorsi",
+        "url": "assets/images/26.png"
+    },
+    {
+        "lat": "Uly romb görnüşli muskul",
+        "tur": "m. rhomboideus major",
+        "url": "assets/images/27.png"
+    },
+    {
+        "lat": "Çüňk-çigin muskuly",
+        "tur": "m. coracobrachialis",
+        "url": "assets/images/28.png"
+    },
+    {
+        "lat": "Tegelek pronator muskul",
+        "tur": "m. pronator teres",
+        "url": "assets/images/29.png"
+    },
+    {
+        "lat": "Supinator muskuly",
+        "tur": "m. supinator",
+        "url": "assets/images/30.png"
+    },
+    {
+        "lat": "Injigiň üç kelleli muskuly",
+        "tur": "m. triceps surae",
+        "url": "assets/images/31.png"
+    },
+    {
+        "lat": "Barmaklaryň uzyn epiji muskuly",
+        "tur": "(m.flexor digitorum longus",
+        "url": "assets/images/32.png"
+    },
+    {
+        "lat": "Uzyn kiçi injik muskuly",
+        "tur": "m. fibularis peroneus",
+        "url": "assets/images/33.png"
+    },
+    {
+        "lat": "Barmaklaryň gysga ýazyjy muskuly",
+        "tur": "m. extensor digitorum brevis",
+        "url": "assets/images/34.png"
+    },
+    
+        
+    
+    
+    
 ]
